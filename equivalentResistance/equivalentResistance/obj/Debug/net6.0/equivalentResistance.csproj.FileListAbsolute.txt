@@ -1,0 +1,15 @@
+C:\Users\zeynep\source\repos\equivalentResistance\equivalentResistance\bin\Debug\net6.0\equivalentResistance.exe
+C:\Users\zeynep\source\repos\equivalentResistance\equivalentResistance\bin\Debug\net6.0\equivalentResistance.deps.json
+C:\Users\zeynep\source\repos\equivalentResistance\equivalentResistance\bin\Debug\net6.0\equivalentResistance.runtimeconfig.json
+C:\Users\zeynep\source\repos\equivalentResistance\equivalentResistance\bin\Debug\net6.0\equivalentResistance.dll
+C:\Users\zeynep\source\repos\equivalentResistance\equivalentResistance\bin\Debug\net6.0\equivalentResistance.pdb
+C:\Users\zeynep\source\repos\equivalentResistance\equivalentResistance\obj\Debug\net6.0\equivalentResistance.csproj.AssemblyReference.cache
+C:\Users\zeynep\source\repos\equivalentResistance\equivalentResistance\obj\Debug\net6.0\equivalentResistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeynep\source\repos\equivalentResistance\equivalentResistance\obj\Debug\net6.0\equivalentResistance.AssemblyInfoInputs.cache
+C:\Users\zeynep\source\repos\equivalentResistance\equivalentResistance\obj\Debug\net6.0\equivalentResistance.AssemblyInfo.cs
+C:\Users\zeynep\source\repos\equivalentResistance\equivalentResistance\obj\Debug\net6.0\equivalentResistance.csproj.CoreCompileInputs.cache
+C:\Users\zeynep\source\repos\equivalentResistance\equivalentResistance\obj\Debug\net6.0\equivalentResistance.dll
+C:\Users\zeynep\source\repos\equivalentResistance\equivalentResistance\obj\Debug\net6.0\refint\equivalentResistance.dll
+C:\Users\zeynep\source\repos\equivalentResistance\equivalentResistance\obj\Debug\net6.0\equivalentResistance.pdb
+C:\Users\zeynep\source\repos\equivalentResistance\equivalentResistance\obj\Debug\net6.0\equivalentResistance.genruntimeconfig.cache
+C:\Users\zeynep\source\repos\equivalentResistance\equivalentResistance\obj\Debug\net6.0\ref\equivalentResistance.dll
